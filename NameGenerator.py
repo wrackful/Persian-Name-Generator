@@ -1,5 +1,4 @@
 import random
-import itertools
 
 nm1 = ["Abbas","Afshin","Ahmad","Akbar","Ali","Ali Reza","Amin","Amir","Amir Ali","Amir Hossein","Amir Mohammad","Amir Reza",
        "Anooshirvan","Arash","Aref","Arman","Arsalan","Arzhang","Asghar","Aziz","Babak","Bagher","Bahman","Bahram","Bairam",
